@@ -88,7 +88,7 @@ El sistema SpeedFast ahora opera bajo un modelo de concurrencia avanzada:
 ## Instrucciones para clonar y ejecutar el proyecto
 1. Clonar el repositorio desde GitHub.
 ```bash
-Git clone []
+Git clone [https://github.com/monicafigueroaduoc/SpeedFastSumativa2.git]
 ```
 2. Abre el proyecto en IntelliJ IDEA.
 3. Ejecutar la clase com.duoc.app.Main
