@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.duoc.app"},{"l":"com.duoc.concurrencia"},{"l":"com.duoc.gestor"},{"l":"com.duoc.interfaces"},{"l":"com.duoc.modelo"}];updateSearchResults();
